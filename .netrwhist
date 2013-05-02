@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/suziwen/Desktop/temp3/testa/storyproject/story'
+let g:netrw_dirhist_2='/home/suziwen/suziwengit/story/storyproject/storyproject'
+let g:netrw_dirhist_3='/home/suziwen/Desktop/temp4/django-social-auth-master/example/example/templates'
